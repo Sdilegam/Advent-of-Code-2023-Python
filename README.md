@@ -8,7 +8,7 @@ Here's my attempt at completting 2023's AoC.
 | 4    |[Scratchcards](https://adventofcode.com/2023/day/4)                                     | Find winning numbers in a lotery card and do some calculations withh it.                             |14-12-2023|[14-12-2023](day4/day4PartTwo.py)       |
 | 5    |[If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)                  | Converts locations based on input and return the smallest one                                        |14-12-2023|[14-12-2023](day5/day5PartTwo.py)       |
 | 6    |[Wait For It](https://adventofcode.com/2023/day/6)                                      | Find the numbers of possible way to win a race based on input                                      |14-12-2023|[14-12-2023](day6/day6PartTwo.py)       |
-| 7    |[Camel Cards](https://adventofcode.com/2023/day/7)                                      | Placeholder for day 7.                                   |/|/|
+| 7    |[Camel Cards](https://adventofcode.com/2023/day/7)                                      | Sort a list of poker hands and do some calculations based on their ranks.                            |15-12-2023|[16-12-2023](day7/day7PartTwo.py)       |
 | 8    |[Haunted Wasteland](https://adventofcode.com/2023/day/8)                                | Placeholder for day 8.                                   |/|/|
 | 9    |[Mirage Maintenance](https://adventofcode.com/2023/day/9)                               | Placeholder for day 9.                                   |/|/|
 | 10   |[Pipe Maze](https://adventofcode.com/2023/day/10)                                       | Placeholder for day 10.                                  |/|/|
