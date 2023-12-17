@@ -10,7 +10,7 @@ Here's my attempt at completting 2023's AoC.
 | 6    |[Wait For It](https://adventofcode.com/2023/day/6)                                      | Find the numbers of possible way to win a race based on input                                      |14-12-2023|[14-12-2023](day6/day6PartTwo.py)       |
 | 7    |[Camel Cards](https://adventofcode.com/2023/day/7)                                      | Sort a list of poker hands and do some calculations based on their ranks.                            |15-12-2023|[16-12-2023](day7/day7PartTwo.py)       |
 | 8    |[Haunted Wasteland](https://adventofcode.com/2023/day/8)                                | Follow a path based on a set of directions and possible outcome.                          |16-12-2023|[16-12-2023](day8/day8PartTwo.py)
-| 9    |[Mirage Maintenance](https://adventofcode.com/2023/day/9)                               | Placeholder for day 9.                                   |/|/|
+| 9    |[Mirage Maintenance](https://adventofcode.com/2023/day/9)                               | Find next/previous number in a sequence based on the pattern of this sequence.                         |17-12-2023|[17-12-2023](day9/day9PartTwo.py)
 | 10   |[Pipe Maze](https://adventofcode.com/2023/day/10)                                       | Placeholder for day 10.                                  |/|/|
 | 11   |[Cosmic Expansion](https://adventofcode.com/2023/day/11)                                | Placeholder for day 11.                                  |/|/|
 | 12   |[Hot Springs](https://adventofcode.com/2023/day/12)                                     | Placeholder for day 12.                                  |/|/|
